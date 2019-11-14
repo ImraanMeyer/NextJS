@@ -1,1 +1,1 @@
-# Playing around with NextJS
+# Playing around with NextJS 🚀
